@@ -1,5 +1,4 @@
-#if
-print ('---------')
+
 age = int(input("Age of the dog: "))
 print()
 if age < 0:  
